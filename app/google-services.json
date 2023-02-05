@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870756408237",
+    "project_id": "smartcart-579b9",
+    "storage_bucket": "smartcart-579b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870756408237:android:f3dce2aa8de3209c06df24",
+        "android_client_info": {
+          "package_name": "com.example.smartcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870756408237-svfr3fgvcg0lvvqk825j8oi9qe9t574q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEwsdurVRULCboLaC1drYmXLYNU_CafdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870756408237-svfr3fgvcg0lvvqk825j8oi9qe9t574q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

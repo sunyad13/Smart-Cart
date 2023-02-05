@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/username_item"
+        android:title="My Profile"
+        android:icon="@drawable/ic_round_logout_24"/>
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/ic_round_settings_24"
+        />
+
+    <item
+        android:id="@+id/about_app"
+        android:title="About app"
+        android:icon="@drawable/ic_round_apps_24"/>
+
+    <item
+        android:id="@+id/privacy_policy"
+        android:title="Privacy policy"
+        android:icon="@drawable/ic_round_privacy_tip_24"/>
+
+    <item
+        android:id="@+id/faq"
+        android:title="FAQ"
+        android:icon="@drawable/ic_round_question_mark_24"/>
+
+    <item
+        android:id="@+id/contact_us"
+        android:title="Contact us"
+        android:icon="@drawable/ic_round_connect_without_contact_24"/>
+    <item
+        android:id="@+id/sign123"
+        android:title="Sign Up "
+        android:icon="@drawable/ic_round_logout_24"/>
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_round_logout_24"/>
+    <item
+        android:id="@+id/sign456"
+        android:title="Login"
+        android:icon="@drawable/ic_round_logout_24"/>
+
+
+
+
+
+</menu>
